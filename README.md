@@ -15,19 +15,22 @@ Last updated: 29-01-2025
 
 - Download or fork the source code from GitHub
 
-# Create the file application.properties and place it in the resources folder
+# Create the file application.properties with the content below and place the file in the resources folder
 
 spring.jpa.hibernate.ddl-auto=update
 
 spring.datasource.url=jdbc:mysql:// the name of your mysql host / the name of your database
 
 spring.datasource.username=your username 
+
 spring.datasource.password=your password
 
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
 spring.jpa.show-sql: true
 
 spring.mvc.view.prefix=/WEB-INF/jsp/
+
 spring.mvc.view.suffix=.jsp
 
 # Run the Web Application locally by open a terminal in the folder of the Spring Boot Web App
