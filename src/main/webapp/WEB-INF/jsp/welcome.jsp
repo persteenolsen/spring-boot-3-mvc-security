@@ -55,7 +55,7 @@
 	<br><br>
 
 	<ul>
-    <li>Updated: 29-01-2025</li>
+    <li>Updated: 07-02-2025</li>
 	<li>Migration from Java 8 => 11 => 17</li>
 	<li>Spring Boot 3</li>
 	<li>Visual Studio Code with the Microsoft Java Extension Pack</li>	
@@ -63,6 +63,7 @@
 	<li>JVM memory have been set to an alocation of 512 MB both initial and max because of the limited physial memory</li>
 	<li>MySQL Database</li>
 	<li>Datasource is the default Hikari</li>
+	<li>DevTools with Hot Reload</li>
 	
 	</ul>
 

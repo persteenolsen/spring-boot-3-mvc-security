@@ -1,6 +1,6 @@
   # Spring Boot 3 MVC Security JSP JPA MySQL
 
-Last updated: 30-01-2025
+Last updated: 07-02-2025
 
 - Java 17
 - Spring Boot 3.3
@@ -44,3 +44,7 @@ http://localhost:8080
 # Login:
 
 http://localhost:8080/login
+
+# Developement
+
+- Using hot reload - when saving changes to a JSP file just refresh the browser to see the changes
