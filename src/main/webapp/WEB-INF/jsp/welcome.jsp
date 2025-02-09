@@ -55,8 +55,8 @@
 	<br><br>
 
 	<ul>
-    <li>Updated: 07-02-2025</li>
-	<li>Migration from Java 8 => 11 => 17</li>
+    <li>Updated: 09-02-2025</li>
+	<li>Java 17</li>
 	<li>Spring Boot 3</li>
 	<li>Visual Studio Code with the Microsoft Java Extension Pack</li>	
 	<li>Microsoft Azure App Service with a Free App Service Plan for web hosting</li>

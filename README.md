@@ -1,6 +1,6 @@
   # Spring Boot 3 MVC Security JSP JPA MySQL
 
-Last updated: 07-02-2025
+Last updated: 09-02-2025
 
 - Java 17
 - Spring Boot 3.3
